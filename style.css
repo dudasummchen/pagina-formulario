@@ -1,0 +1,44 @@
+.borda{
+    width: 300px;
+    height: 550px;
+    margin-left: 500px;
+    border: 2px;
+    box-shadow: 5px 10px 20px gray;
+ 
+}
+legend{
+     padding-top: 90px;
+    color: rgb(59, 59, 122);
+    font-size: 30px;
+     font-family: Arial, Helvetica, sans-serif;
+     margin-bottom: -45px;
+     margin-left: 20px;
+}
+.campo{
+    width: 250px;
+    height: 30px;
+    margin-left: 20px;
+    margin-top: 25px;
+    background-color: lightgray;
+    border: none;
+}
+.minititulos{
+     font-family: Arial, Helvetica, sans-serif;
+     margin-left: 20px;
+     padding-top: 5px;
+     
+}
+.confirmar{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+}
+
+.botao{
+    margin-left: 270px;
+    font-size: 30px;
+    background-color: white;
+    border: none;
+    margin-top: -40px;
+    margin-bottom: 55px; 
+
+}
